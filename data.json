@@ -1,0 +1,191 @@
+{
+  "Phones": [
+    {
+      "name": "Samsung Galaxy S21 Ultra",
+      "subtitle": "Flagship Camera Beast",
+      "thumbnail_image": "samsung_s21_ultra.jpg",
+      "secondary_images": [
+        "s21_ultra_1.jpg",
+        "s21_ultra_2.jpg",
+        "s21_ultra_3.jpg"
+      ],
+      "price": "$1,199",
+      "variants_available": [
+        {
+          "color": "Phantom Black",
+          "storage": "128GB",
+          "price": "$1,199"
+        },
+        {
+          "color": "Phantom Silver",
+          "storage": "256GB",
+          "price": "$1,299"
+        },
+        {
+          "color": "Phantom Titanium",
+          "storage": "512GB",
+          "price": "$1,499"
+        }
+      ],
+      "description": "The Samsung Galaxy S21 Ultra boasts a powerful camera setup, a stunning 6.8-inch display, and top-tier performance. With its pro-grade camera system and high-end specs, it's designed for photography enthusiasts and power users."
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "subtitle": "Apple's Pro Performance",
+      "thumbnail_image": "iphone_13_pro.jpg",
+      "secondary_images": [
+        "iphone_13_pro_1.jpg",
+        "iphone_13_pro_2.jpg",
+        "iphone_13_pro_3.jpg"
+      ],
+      "price": "$999",
+      "variants_available": [
+        {
+          "color": "Graphite",
+          "storage": "128GB",
+          "price": "$999"
+        },
+        {
+          "color": "Gold",
+          "storage": "256GB",
+          "price": "$1,099"
+        },
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "price": "$1,299"
+        }
+      ],
+      "description": "The iPhone 13 Pro features a stunning ProMotion display, an improved camera system, and exceptional performance powered by Apple's latest chipset. It's a premium choice for Apple enthusiasts seeking top-notch performance and photography capabilities."
+    },
+    {
+      "name": "OnePlus 9 Pro",
+      "subtitle": "Speed and Performance",
+      "thumbnail_image": "oneplus_9_pro.jpg",
+      "secondary_images": [
+        "oneplus_9_pro_1.jpg",
+        "oneplus_9_pro_2.jpg",
+        "oneplus_9_pro_3.jpg"
+      ],
+      "price": "$899",
+      "variants_available": [
+        {
+          "color": "Morning Mist",
+          "storage": "128GB",
+          "price": "$899"
+        },
+        {
+          "color": "Pine Green",
+          "storage": "256GB",
+          "price": "$999"
+        }
+      ],
+      "description": "The OnePlus 9 Pro delivers blazing-fast performance, a stunning display, and an impressive camera system co-engineered with Hasselblad. It's a flagship choice for users seeking exceptional speed and photography capabilities."
+    },
+    {
+      "name": "Xiaomi Mi 11 Ultra",
+      "subtitle": "Ultimate Camera Setup",
+      "thumbnail_image": "mi_11_ultra.jpg",
+      "secondary_images": [
+        "mi_11_ultra_1.jpg",
+        "mi_11_ultra_2.jpg",
+        "mi_11_ultra_3.jpg"
+      ],
+      "price": "$999",
+      "variants_available": [
+        {
+          "color": "Ceramic White",
+          "storage": "256GB",
+          "price": "$999"
+        }
+      ],
+      "description": "The Xiaomi Mi 11 Ultra boasts an incredible camera setup, a high-refresh-rate display, and powerful performance. With its unique design and exceptional camera capabilities, it's a flagship offering for photography enthusiasts."
+    },
+    {
+      "name": "Google Pixel 6 Pro",
+      "subtitle": "AI-Powered Photography",
+      "thumbnail_image": "pixel_6_pro.jpg",
+      "secondary_images": [
+        "pixel_6_pro_1.jpg",
+        "pixel_6_pro_2.jpg",
+        "pixel_6_pro_3.jpg"
+      ],
+      "price": "$899",
+      "variants_available": [
+        {
+          "color": "Stormy Black",
+          "storage": "128GB",
+          "price": "$899"
+        },
+        {
+          "color": "Cloudy White",
+          "storage": "256GB",
+          "price": "$999"
+        }
+      ],
+      "description": "The Google Pixel 6 Pro features AI-powered photography, a high-quality display, and seamless integration with Google's ecosystem. Its emphasis on camera technology and software optimization makes it a standout choice for photo enthusiasts."
+    },
+    {
+      "name": "Realme GT",
+      "subtitle": "Performance Powerhouse",
+      "thumbnail_image": "realme_gt.jpg",
+      "secondary_images": [
+        "realme_gt_1.jpg",
+        "realme_gt_2.jpg",
+        "realme_gt_3.jpg"
+      ],
+      "price": "$599",
+      "variants_available": [
+        {
+          "color": "Dashing Blue",
+          "storage": "128GB",
+          "price": "$599"
+        },
+        {
+          "color": "Racing Yellow",
+          "storage": "256GB",
+          "price": "$649"
+        }
+      ],
+      "description": "The Realme GT offers top-tier performance, a high-refresh-rate display, and a sleek design. It's a value-packed choice for users seeking powerful performance without breaking the bank."
+    },
+    {
+      "name": "Vivo X60 Pro+",
+      "subtitle": "Professional Photography",
+      "thumbnail_image": "vivo_x60_pro_plus.jpg",
+      "secondary_images": [
+        "vivo_x60_pro_plus_1.jpg",
+        "vivo_x60_pro_plus_2.jpg",
+        "vivo_x60_pro_plus_3.jpg"
+      ],
+      "price": "$899",
+      "variants_available": [
+        {
+          "color": "Emperor Blue",
+          "storage": "256GB",
+          "price": "$899"
+        }
+      ],
+      "description": "The Vivo X60 Pro+ emphasizes professional-grade photography, features a top-notch display, and offers smooth performance. It's an excellent choice for users seeking exceptional camera capabilities."
+    },
+    {
+      "name": "Oppo Find X3 Pro",
+      "subtitle": "Innovative Design",
+      "thumbnail_image": "oppo_find_x3_pro.jpg",
+      "secondary_images": [
+        "oppo_find_x3_pro_1.jpg",
+        "oppo_find_x3_pro_2.jpg",
+        "oppo_find_x3_pro_3.jpg"
+      ],
+      "price": "$1,099",
+      "variants_available": [
+        {
+          "color": "Gloss Black",
+          "storage": "256GB",
+          "price": "$1,099"
+        }
+      ],
+      "description": "The Oppo Find X3 Pro features an innovative design, a vibrant display with a high refresh rate, and a versatile camera system. Its unique design elements make it stand out among flagship smartphones."
+    }
+  ]
+}
